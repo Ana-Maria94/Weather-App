@@ -1,0 +1,62 @@
+[
+    {
+    "id": 2618425,
+    "name": "Copenhagen",
+    "state": "",
+    "country": "DK",
+    "coord": {
+        "lon": 12.56553,
+        "lat": 55.675941
+    }
+  },
+  {
+    "id": 683506,
+    "name": "Bucharest",
+    "state": "",
+    "country": "RO",
+    "coord": {
+        "lon": 26.10626,
+        "lat": 44.432251
+    }
+  },
+    {
+      "id": 686253,
+      "name": "Arad",
+      "state": "",
+      "country": "RO",
+      "coord": {
+          "lon": 21.75,
+          "lat": 46.333328
+      }
+  },
+  {
+    "id": 5128581,
+    "name": "New York City",
+    "state": "NY",
+    "country": "US",
+    "coord": {
+        "lon": -74.005966,
+        "lat": 40.714272
+    }
+  },
+  {
+    "id": 2950158,
+    "name": "Berlin",
+    "state": "",
+    "country": "DE",
+    "coord": {
+        "lon": 10.45,
+        "lat": 54.033329
+    }
+  },
+  {
+    "id": 6356055,
+    "name": "Barcelona",
+    "state": "",
+    "country": "ES",
+    "coord": {
+        "lon": 2.12804,
+        "lat": 41.399422
+    }
+  }
+  ]
